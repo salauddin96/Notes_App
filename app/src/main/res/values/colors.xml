@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="SteelBlue">#4682B4</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="Green">#008000</color>
+
+</resources>
